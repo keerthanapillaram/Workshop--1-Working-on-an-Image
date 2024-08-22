@@ -1,4 +1,4 @@
-# Workshop--1-Working-on-an-Image
+# Workshop-1-Working-on-an-Image
 
 WORKSHOP-1 WORKING ON  AN IMAGE
 ## AIM:
