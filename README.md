@@ -21,8 +21,8 @@ import cv2
 ### STEP 2:
 READ THE IMAGES:
 ```
-image1 = cv2.imread("moon.jpg")
-image2 = cv2.imread("sun.jpg")
+image1 = cv2.imread("nature.jpg")
+image2 = cv2.imread("city.jpg")
 ```
 ### STEP 3:
 ENSURE SIZE OF THE RESPECTIVE IMAGES ARE SAME:
